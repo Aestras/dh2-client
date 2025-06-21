@@ -1,3 +1,20 @@
+Pokémon Showdown Genzie Client Repo
+
+
+Prerequisites:
+https://nodejs.org/en
+https://github.com/apps/desktop
+
+In Github Desktop, clone https://github.com/Aestras/dh2-client/ and https://github.com/Aestras/dh2/
+
+Make changes in ...\DH2\data\mods\genzie
+Push Origin in DH2 on Github Desktop
+Clear ...\dh2-client\caches folder
+Run Build.bat in ...\dh2-client
+Run Run.bat in ...\dh2-client\caches\DH2
+Test changes in ...\\dh2-client\play.pokemonshowdown.com\testclient.html
+ 
+Past this point is from the original Pokémon Showdown Client repo
 Pokémon Showdown Client
 ========================================================================
 
