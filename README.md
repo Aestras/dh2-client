@@ -10,6 +10,8 @@ In Github Desktop, clone https://github.com/Aestras/dh2-client/ and https://gith
 
 Make changes in ...\DH2\data\mods\genzie
 
+Make commit to main (PLEASE NAME YOUR CHANGE) in DH2 on Github Desktop
+
 Push Origin in DH2 on Github Desktop
 
 Clear ...\dh2-client\caches folder
