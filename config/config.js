@@ -19,7 +19,7 @@ Config.whitelist = [
 // address bar is `Config.routes.client`.
 Config.defaultserver = {
 	id: 'dragonheaven',
-	host: 'localhost',
+	host: 'mc.budsquard.com',
 	port: 8000,
 	httpport: 8000,
 	altport: 80,
@@ -37,7 +37,7 @@ Config.version = "0.11.2";
 
 Config.routes = {
 	root: '191.101.232.116',
-	client: 'localhost',
+	client: 'mc.budsquard.com',
 	dex: 'dex.pokemonshowdown.com',
 	replays: 'replay.pokemonshowdown.com',
 	users: 'pokemonshowdown.com/users',
